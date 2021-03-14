@@ -49,6 +49,6 @@ THe waveform of a piano
 Try It Yourself - Interact With Sound
 To help understand how sound works, download MouSing. It's a software theremin: an electronic instrument that allows direct control of pitch and amplitude. By moving your mouse horizontally across the screen, you alter the wavelength of the sound being produced, and thus the pitch (displayed in Hz on the bottom of the program). The higher the frequency, the higher the pitch. By moving the mouse vertically, you alter the volume, or amplitude, of the wave.
 
-MouSing screenshot
-
+To fully communicate here is a link. Make sure to continue to post here on github
+https://marekpag1.wixsite.com/channelpads/forum/collective/soundpad
 
